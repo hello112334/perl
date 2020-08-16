@@ -1,3 +1,7 @@
+https://www.tutorialspoint.com/perl
+
+"# Perl"
+
 The Basic of Perl:
 - syntax
 - variable
@@ -6,10 +10,3 @@ The Basic of Perl:
 - function
 - format / string operation
 - module
-
-Start coding:
-- make HttpRequest
-- map response
--array operation
-- fromat
-- print to terminal"# perl" 
