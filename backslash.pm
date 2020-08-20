@@ -1,4 +1,4 @@
-#!/usr/bin/perl
+#/usr/bin/perl
 
 #   Normal
 print "Hello World!\n";
